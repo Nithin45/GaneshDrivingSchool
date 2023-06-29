@@ -1,0 +1,38 @@
+#h-main{
+    background-color: grey;
+}
+
+.navbar{
+   float: right;
+   background-color: ;
+
+    
+
+}
+.main-image{
+    display: block;
+    margin-left: 22%;
+    
+    width: 60%;
+    height:70%;
+    padding-top: 18%;
+
+}
+.main-h{
+    text-align: center;
+    padding-top: 15em;
+    color:orangered;
+}
+.page-2{
+    background-color: antiquewhite;
+}
+
+.page-4{
+    background-color:antiquewhite;
+}
+
+footer{
+    padding: auto;  
+    text-align: center;
+    background-color:lavender;
+}
