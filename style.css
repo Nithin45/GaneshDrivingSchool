@@ -1,7 +1,12 @@
-#h-main{
+.h-main{
     background-color: grey;
+    position: fixed;
+    width:100%;
+    z-index: 1;
 }
-
+.top{
+    padding-left:1cm
+}
 .navbar{
    float: right;
    
@@ -15,7 +20,6 @@
 .main-image{
     display: block;
     margin-left: 22%;
-    
     width: 60%;
     height:70%;
     padding-top: 18%;
